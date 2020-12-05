@@ -4,4 +4,5 @@
 
 [-        # Pedro's Default Edit {NM}](http://www.mediafire.com/file/h42151u2k5wd4ao/-_%2523_Pedro%2527s_Default_Edit_%257BNM%257D.osk/file)
 
-https://media.discordapp.net/attachments/775780009524068372/784914525279354930/screenshot038.jpg?width=855&height=481
+![](images/![screenshot038](https://user-images.githubusercontent.com/73403828/101267057-b1c0e280-3733-11eb-88d5-b84bc1ea3c31.jpg)
+
