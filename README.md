@@ -1,4 +1,4 @@
-# skins
+#Skins
 
 **Hello, so this is my repository of every skin i use, so if i use, so when i reset my PC everything is here or if you want to download any of my skins**
 
